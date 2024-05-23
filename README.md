@@ -1,6 +1,6 @@
 # 👨‍💻 Benvenuti sul mio GitHub!
 
-Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno, ho intrapreso il percorso da programmatore e sto vivendo ogni momento con entusiasmo e curiosità. 🚀
+Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno, ho intrapreso la carriera da programmatore e sto vivendo ogni momento con entusiasmo e curiosità. 🚀
 
 ## 🔧 Competenze Tecniche
 - **Linguaggi di Programmazione**:
@@ -12,7 +12,7 @@ Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno,
 - **Web Development**:
   - HTML 🌐
   - CSS 🎨
-  - JavaScript
+  - ![JavaScript](https://via.placeholder.com/20/FFD700/000000?text=JS) JavaScript
 - **IDEs**:
   - Eclipse
   - Visual Studio Code
