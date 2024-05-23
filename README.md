@@ -12,7 +12,11 @@ Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno,
 - **Web Development**:
   - HTML 🌐
   - CSS 🎨
-  - JavaScript (https://via.placeholder.com/20/FFD700/000000?text=J)
+  - JavaScript
+- **IDEs**:
+  - Eclipse
+  - Visual Studio Code
+  - IntelliJ
 
 Amo sperimentare nuove tecnologie e migliorare costantemente le mie competenze. 
 Questo spazio è dedicato ai miei progetti e alle mie sperimentazioni. 
