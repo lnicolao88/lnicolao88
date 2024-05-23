@@ -8,7 +8,7 @@ Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno,
   - Python 🐍
 - **Database**:
   - MySQL 🗄️
-  - MongoDB 🗄️
+  - MongoDB ![MongoDB](https://via.placeholder.com/20/00FF00/000000?text=M)
 - **Web Development**:
   - HTML 🌐
   - CSS 🎨
