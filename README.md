@@ -4,15 +4,15 @@ Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno,
 
 ## 🔧 Competenze Tecniche
 - **Linguaggi di Programmazione**:
-  - ![Java](https://via.placeholder.com/20/FFD700/000000?text=J) Java ☕
-  - ![Python](https://via.placeholder.com/20/FFD700/000000?text=Py) Python 🐍
+  - Java ☕
+  - Python 🐍
 - **Database**:
   - MySQL 🗄️
   - MongoDB 🗄️
 - **Web Development**:
   - HTML 🌐
   - CSS 🎨
-  - ![JavaScript](https://via.placeholder.com/20/FFD700/000000?text=JS) JavaScript
+  - JavaScript ![JavaScript](https://via.placeholder.com/20/FFD700/000000?text=JS) 
 - **IDEs**:
   - Eclipse
   - Visual Studio Code
