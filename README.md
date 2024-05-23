@@ -15,7 +15,7 @@ Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno,
   - JavaScript ![JavaScript](https://via.placeholder.com/20/FFD700/000000?text=JS) 
 - **IDEs**:
   - Eclipse ![Eclipse IDE](https://via.placeholder.com/20/2C2255/FFFFFF?text=E)
-  - Visual Studio Code
+  - Visual Studio Code ![Visual Studio Code](https://via.placeholder.com/20/800080/FFFFFF?text=V)
   - IntelliJ
 
 Amo sperimentare nuove tecnologie e migliorare costantemente le mie competenze. 
