@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👨‍💻 Benvenuti sul mio GitHub!
 
-<!--
-**lnicolao88/lnicolao88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno, ho intrapreso il percorso da programmatore e sto vivendo ogni momento con entusiasmo e curiosità. 🚀
 
-Here are some ideas to get you started:
+## 🔧 Competenze Tecniche
+- **Linguaggi di Programmazione**:
+  - Java ☕
+  - Python 🐍
+- **Database**:
+  - MySQL 🗄️
+- **Web Development**:
+  - HTML 🌐
+  - CSS 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Amo sperimentare nuove tecnologie e migliorare costantemente le mie competenze. 
+Questo spazio è dedicato ai miei progetti e alle mie sperimentazioni. 
+Sentitevi liberi di esplorare, dare feedback e collaborare!
+
