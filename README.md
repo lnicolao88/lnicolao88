@@ -14,7 +14,7 @@ Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno,
   - CSS 🎨
   - JavaScript ![JavaScript](https://via.placeholder.com/20/FFD700/000000?text=JS) 
 - **IDEs**:
-  - Eclipse
+  - Eclipse ![Eclipse IDE](https://via.placeholder.com/20/2C2255/FFFFFF?text=E)
   - Visual Studio Code
   - IntelliJ
 
