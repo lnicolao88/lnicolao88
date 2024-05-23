@@ -20,5 +20,5 @@ Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno,
 
 Amo sperimentare nuove tecnologie e migliorare costantemente le mie competenze. 
 Questo spazio è dedicato ai miei progetti e alle mie sperimentazioni. 
-Sentitevi liberi di esplorare, dare feedback e collaborare!
+Sentitevi liberi di esplorare e dare feedback!
 
