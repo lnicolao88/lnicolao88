@@ -4,8 +4,8 @@ Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno,
 
 ## 🔧 Competenze Tecniche
 - **Linguaggi di Programmazione**:
-  - Java ☕
-  - Python 🐍
+  - ![Java](https://via.placeholder.com/20/FFD700/000000?text=J) Java ☕
+  - ![Python](https://via.placeholder.com/20/FFD700/000000?text=Py) Python 🐍
 - **Database**:
   - MySQL 🗄️
   - MongoDB 🗄️
