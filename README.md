@@ -3,12 +3,20 @@
 Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno, ho intrapreso la carriera da programmatore e sto vivendo ogni momento con entusiasmo e curiosità. 🚀
 
 ## 🔧 Competenze Tecniche
-- **Linguaggi di Programmazione**:
+- **Linguaggi di Programmazione e Tecnologie utilizzate**:
   - Java ☕
   - Python 🐍
-- **Database**:
+  - Spring REST
+  - Spring MVC
+  - Spring Data
+  - Maven
+  - JSP
+  - Hibernate
+  - Postman
+- **Database e Server**:
   - MySQL 🗄️
   - MongoDB ![MongoDB](https://via.placeholder.com/20/00FF00/000000?text=M)
+  - Tomcat
 - **Web Development**:
   - HTML 🌐
   - CSS 🎨
