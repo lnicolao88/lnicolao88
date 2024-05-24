@@ -1,4 +1,4 @@
-# 👨‍💻 Benvenuti sul mio GitHub! 👨‍💻
+# 👨‍💻 Benvenuto/a sul mio GitHub! 👨‍💻
 
 Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno, ho intrapreso la carriera da programmatore e sto vivendo ogni momento con entusiasmo e curiosità. 🚀
 
