@@ -1,9 +1,8 @@
-# 👨‍💻 Benvenuto/a sul mio GitHub! 👨‍💻
+👨‍💻 Welcome to my GitHub! 👨‍💻
+Hi! I'm a technology and computer science enthusiast. I've been pursuing a career as a programmer for just over a year, and I'm experiencing every moment with enthusiasm and curiosity. 🚀
 
-Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno, ho intrapreso la carriera da programmatore e sto vivendo ogni momento con entusiasmo e curiosità. 🚀
-
-## 🔧 Competenze Tecniche
-- **Linguaggi di Programmazione e Tecnologie utilizzate**:
+## 🔧 Technical Skills
+- **Programming Languages and Technologies used:**
   - Java ☕
   - Python 🐍
   - Spring REST
@@ -13,7 +12,7 @@ Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno,
   - JSP
   - Hibernate
   - Postman
-- **Database e Server**:
+- **Databases and Servers:**
   - MySQL 🗄️
   - MongoDB ![MongoDB](https://via.placeholder.com/20/00FF00/000000?text=M)
   - Tomcat
@@ -26,7 +25,5 @@ Ciao! Sono un appassionato di tecnologia e informatica. Da poco più di un anno,
   - Visual Studio Code ![Visual Studio Code](https://via.placeholder.com/20/800080/FFFFFF?text=V)
   - IntelliJ
 
-Amo sperimentare nuove tecnologie e migliorare costantemente le mie competenze. 
-Questo spazio è dedicato ai miei progetti e alle mie sperimentazioni. 
-Sentitevi liberi di esplorare e dare feedback!
+I love experimenting with new technologies and constantly improving my skills. This space is dedicated to my projects and experiments. Feel free to explore and give feedback!
 
