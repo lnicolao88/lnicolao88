@@ -1,4 +1,4 @@
-👨‍💻 Welcome to my GitHub! 👨‍💻
+# 👨‍💻 Welcome to my GitHub! 👨‍💻
 
 Hi! I'm a technology and computer science enthusiast. I've been pursuing a career as a programmer for just over a year, and I'm experiencing every moment with enthusiasm and curiosity. 🚀
 
