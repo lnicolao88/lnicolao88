@@ -19,7 +19,9 @@ Ciao, sono **Luca**! Appassionato di tecnologia e informatica, con oltre **2 ann
 **🗄️ Database & Server**  
 - MySQL 🗄️  
 - MongoDB 🍃  
-- Apache Tomcat 🚀  
+- Apache Tomcat 🚀
+- GeoServer
+- MapStore
 
 **🌐 Sviluppo Web**  
 - HTML5 🌐  
@@ -33,5 +35,5 @@ Ciao, sono **Luca**! Appassionato di tecnologia e informatica, con oltre **2 ann
 
 ---
 
-💡 **La mia passione:** sperimentare nuove librerie, migliorare costantemente le mie skill e condividere idee con la community.  
+💡 **La mia passione:** sperimentare nuovi linguaggi di programmazione, nuove librerie, nuovi framework e migliorare costantemente le mie skill.  
 👋 Sentiti libero di lasciare un feedback o semplicemente salutare!
