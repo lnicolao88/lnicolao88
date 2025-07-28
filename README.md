@@ -1,30 +1,37 @@
-# 👨‍💻 Welcome to my GitHub! 👨‍💻
+# 🚀 Benvenuto nel mio GitHub!  
 
-Hi! I'm a technology and computer science enthusiast. I've been pursuing a career as a programmer for just over a year, and I'm experiencing every moment with enthusiasm and curiosity. 🚀
+Ciao, sono **Luca**! Appassionato di tecnologia e informatica, con oltre **2 anni** di esperienza come programmatore. 🤓✨
 
-## 🔧 Technical Skills
-- **Programming Languages and Technologies used:**
-  - Java ☕
-  - Python 🐍
-  - Spring REST
-  - Spring MVC
-  - Spring Data
-  - Maven
-  - JSP
-  - Hibernate
-  - Postman
-- **Databases and Servers:**
-  - MySQL 🗄️
-  - MongoDB
-  - Tomcat
-- **Web Development**:
-  - HTML 🌐
-  - CSS 🎨
-  - JavaScript
-- **IDEs**:
-  - Eclipse
-  - Visual Studio Code
-  - IntelliJ
+---
 
-I love experimenting with new technologies and constantly improving my skills. This space is dedicated to my projects and experiments. Feel free to explore and give feedback!
+## 🛠️ Competenze Tecniche
 
+**💻 Linguaggi & Framework**  
+- Java ☕  
+- Python 🐍  
+- Spring (REST, MVC, Data)  
+- Maven  
+- JSP  
+- Hibernate
+- Angular
+- Dart/Flutter
+
+**🗄️ Database & Server**  
+- MySQL 🗄️  
+- MongoDB 🍃  
+- Apache Tomcat 🚀  
+
+**🌐 Sviluppo Web**  
+- HTML5 🌐  
+- CSS3 🎨  
+- JavaScript ⚡  
+
+**🖥️ IDE**  
+- Eclipse 🌙  
+- Visual Studio Code 💙  
+- IntelliJ IDEA 💡  
+
+---
+
+💡 **La mia passione:** sperimentare nuove librerie, migliorare costantemente le mie skill e condividere idee con la community.  
+👋 Sentiti libero di lasciare un feedback o semplicemente salutare!
