@@ -1,6 +1,7 @@
 # 🚀 Benvenuto nel mio GitHub!  
 
 Ciao, sono **Luca**! Appassionato di tecnologia e informatica, con oltre **2 anni** di esperienza come programmatore. 🤓✨
+Lavoro come Software Developer a Roma, nello specifico mi occupo di progettazione, sviluppo e manutenzione di software per la gestione di droni e hangar, utilizzati per attività di ispezione, sicurezza e sorveglianza.
 
 ---
 
