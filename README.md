@@ -11,7 +11,7 @@ Lavoro da Marzo 2024 come Software Developer a Roma, nello specifico mi occupo d
 **💻 Linguaggi & Framework**  
 - Java ☕  
 - Python 🐍  
-- Spring (REST, MVC, Data)  
+- Spring (REST, MVC, Boot, Data)  
 - Maven  
 - JSP  
 - Hibernate
@@ -31,8 +31,8 @@ Lavoro da Marzo 2024 come Software Developer a Roma, nello specifico mi occupo d
 - JavaScript ⚡  
 
 **🖥️ IDE**  
-- Eclipse 🌙  
-- Visual Studio Code 💙  
+- Visual Studio Code 💙
+- Eclipse 🌙    
 - IntelliJ IDEA 💡  
 
 ---
